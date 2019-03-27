@@ -1,7 +1,7 @@
 # LiriBot-
 
 # Demo
-<img src="gif.webm" alt="Liri Gif" style="max-width:100%;">
+<img src="/bf2344/liriBot/raw/master/gif.webm" alt="Liri Gif" style="max-width:100%;">
 
 ## LIRI Bot for Week #10 Homework
 ## About
