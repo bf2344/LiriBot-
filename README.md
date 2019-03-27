@@ -7,8 +7,6 @@
 ## About
 ### LIRI is a Language Interpretation and Recognition Interface. LIRI will be a command line node app that takes in parameters and gives you back data.
 
-### Motivation
-#### This is a project for Omar Patel's class at UCLA where we are learning to implement node.js.
 
 What it does
 # Concert-This
