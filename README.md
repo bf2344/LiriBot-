@@ -1,9 +1,7 @@
 # LiriBot-
 
 # Demo
-<figure>
-<iframe src=“https://drive.google.com/open?id=1Rn6VvH_z8BNoqSoxC249sibt-6chzvpk”></iframe>
-</figure>
+<iframe src="https://drive.google.com/file/d/1Rn6VvH_z8BNoqSoxC249sibt-6chzvpk/preview" width="640" height="480"></iframe>
 
 ## LIRI Bot for Week #10 Homework
 ## About
